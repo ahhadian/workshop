@@ -1,1 +1,2 @@
-in the name of god
+In the name of god
+Hello world :)
